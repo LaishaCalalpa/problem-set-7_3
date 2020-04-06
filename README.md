@@ -14,8 +14,7 @@
   2. _reading_ - `GET`  
   3. _updating_ - `PUT`  
   4. _deleting_ - `DELETE`  
-  It is important to use different types of requests in order to tell the server what actions have to be performed based on information that is received from a user. This will allow the user to be provided the proper responses based on their requests.   
-  **
+  It is important to use different types of requests in order to tell the server what actions have to be performed based on information that is received from a user. This will allow the user to be provided the proper responses based on their requests.**
 
 1. **You've recently learned about an API for a cat sitting company. The API is fully RESTful for a resource called `cats`. You also happen to know that their database is running Postgresql on the backend. What are the five types of requests the API will respond to? Based on the description, list the HTTP method, the path, and what SQL the request will fire.**
 
